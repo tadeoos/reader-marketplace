@@ -14,5 +14,13 @@
     "url": "https://github.com/tadeoos/reader-dictionary-plugin",
     "version": "1.0.0",
     "author": "Tadek Teleżyński"
+  },
+  {
+    "description": "Bookmark/pin the focused paragraph for reference while you continue reading",
+    "name": "Pin to top",
+    "packageName": "reader-pin-plugin",
+    "url": "https://github.com/adam-lynch/reader-pin-plugin",
+    "version": "1.0.0",
+    "author": "Adamski Lynchino"
   }
 ]
