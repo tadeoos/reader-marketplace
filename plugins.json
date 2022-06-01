@@ -2,7 +2,7 @@
   {
     "description": "Quickly create flashcards from words you don't know",
     "name": "Translator",
-    "packageName": "reader-example-plugin",
+    "packageName": "reader-translation-plugin",
     "url": "https://github.com/mlmirchich/reader-translation-plugin",
     "version": "1.0.0",
     "author": "Meghan Mirchich"
